@@ -15,7 +15,7 @@ CyberSecurity student! HomeLab owner.<br>13Y/old
 <img align="left" alt="Java" width="30px" style="padding=right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding=right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
 
-
+----
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=97K0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=97K0&theme=dark&hide_border=false)<br/>
