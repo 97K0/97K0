@@ -1,5 +1,5 @@
 # 💫 About Me:
-CyberSecurity student! HomeLab owner.<br>13Y/old!
+CyberSecurity student! HomeLab owner.<br>13Y/old!|Roblox Trader.
 
 
 ## 🌐 Socials:
