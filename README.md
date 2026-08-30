@@ -14,6 +14,7 @@ CyberSecurity student! HomeLab owner.<br>13Y/old! | Roblox Trader.
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Apple" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="left" alt="Debian" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+<img align="left" alt="Debian" width="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/tryhackme/8B0000" alt="TryHackMe">
 
 <br clear="left">
 <br clear="left">
