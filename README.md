@@ -2,9 +2,9 @@
 
   <!-- HEADER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:00c6ff,100:00f2fe&height=220&section=header&text=97K0&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=CyberSecurity%20%7C%20HomeLab%20%7C%20Roblox%20Developer&descAlignY=54&descSize=17&descColor=E0F7FA"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:00c6ff,100:00f2fe&height=220&section=header&text=Francesco&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=CyberSecurity%20%7C%20HomeLab%20%7C%20Roblox%20Developer&descAlignY=54&descSize=17&descColor=E0F7FA"
     width="100%"
-    alt="97K0 — CyberSecurity | HomeLab | Roblox Developer"
+    alt="Francesco — CyberSecurity | HomeLab | Roblox Developer"
   />
 
   <img
@@ -89,21 +89,16 @@
       <td align="center">
         <br/>
         <img
-          src="https://skillicons.dev/icons?i=linux,debian,windows,cloudflare&theme=dark&perline=2"
-          alt="Linux, Debian, Windows, Cloudflare"
+          src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,cloudflare&theme=dark&perline=3"
+          alt="Linux, Debian, Ubuntu, Windows, Cloudflare"
         />
         <br/><br/>
       </td>
       <td align="center">
         <br/>
         <img
-          src="https://skillicons.dev/icons?i=github,blender,apple&theme=dark&perline=3"
-          alt="GitHub, Blender, Apple"
-        />
-        <br/><br/>
-        <img
-          src="https://img.shields.io/badge/Roblox_Developer-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white"
-          alt="Roblox Developer"
+          src="https://skillicons.dev/icons?i=github,blender,apple,robloxstudio&theme=dark&perline=2"
+          alt="GitHub, Blender, Apple, Roblox Studio"
         />
         <br/><br/>
       </td>
@@ -156,7 +151,7 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=97K0&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=00C6FF&currStreakLabel=00F2FE&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
     width="95%"
-    alt="97K0 GitHub contribution streak"
+    alt="Francesco GitHub contribution streak"
   />
 
   <br/><br/>
